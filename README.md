@@ -1,1 +1,1 @@
-# algorithm
+basic algorithm list
